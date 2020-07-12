@@ -1,9 +1,9 @@
 ![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
-<div align="center">
+<h3 align="center">
 	<a href="https://twitter.com/ephread" title="Twitter"><img src="https://img.shields.io/badge/-@ephread-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 	<a href="https://linkedin.com/ephread" title="Linkedin"><img src="https://img.shields.io/badge/-ephread-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
-</div>
+</h3>
 
 I'm an independent iOS, watchOS and tvOS developer. Most of my open source attention is split between [Instructions] and the [ink] community.
 
@@ -14,7 +14,7 @@ I'm an independent iOS, watchOS and tvOS developer. Most of my open source atten
 
 |[@Dimillian]|[@nataliapanferova]|[@jordansinger]|[@vmanot]|
 |:----------:|:-----------------:|:-------------:|:-------:|
-|![@dimilian](https://github.com/Dimillian.png?size=300)|![@nataliapanferova](https://github.com/nataliapanferova.png?size=300)|![@jordansinger](https://github.com/jordansinger.png?size=300)|![@vmanot](https://github.com/vmanot.png?size=300)|
+|![@dimilian](https://github.com/Dimillian.png?size=170)|![@nataliapanferova](https://github.com/nataliapanferova.png?size=170)|![@jordansinger](https://github.com/jordansinger.png?size=170)|![@vmanot](https://github.com/vmanot.png?size=170)|
 
 [@Dimillian]: https://github.com/Dimillian
 [@nataliapanferova]: https://github.com/nataliapanferova
