@@ -2,7 +2,7 @@
 
 <h3 align="center">
 	<a href="https://twitter.com/ephread" title="Twitter"><img src="https://img.shields.io/badge/-@ephread-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-	<a href="https://linkedin.com/ephread" title="Linkedin"><img src="https://img.shields.io/badge/-ephread-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
+	<a href="https://linkedin.com/in/ephread/" title="Linkedin"><img src="https://img.shields.io/badge/-ephread-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
 </h3>
 
 I'm an independent iOS, watchOS and tvOS developer. Most of my open source attention is split between [Instructions] and the [ink] community.
