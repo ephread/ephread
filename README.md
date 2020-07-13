@@ -61,3 +61,7 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 	<a href="https://twitter.com/ephread" title="Twitter"><img src="https://img.shields.io/badge/-@ephread-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 	<a href="https://linkedin.com/in/ephread/" title="Linkedin"><img src="https://img.shields.io/badge/-ephread-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
 </div>
+
+<p align="center">
+    The original <a href="https://thenounproject.com/term/koru/2927216/" title="Koru">Koru</a> icon by <a href="https://thenounproject.com/kbourkedesign/" title="Kate Bourke">Kate Bourke</a> is licensed under <a href="https://creativecommons.org/licenses/by/3.0/us/legalcode" title="CC BY 3.0">CC BY 3.0</a> and has been tweaked a little by me.
+</p>
