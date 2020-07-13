@@ -20,7 +20,7 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 ### Open Source things you may want to check out
 
 #### Apple
-* **[Instructions]**, a pure Swift library to display coach marks.
+* **[Instructions]**, a pure Swift library to display coach marks. I originally wrote _Instructions_ in Objective-C, as part of another project. In 2015, I extracted the library and rewrote it in Swift.
 * **[Pomme Plate]**, a collection of apple-device mockup templates. I've neglected this project in the past few years, but I'm in the process of modernising the Sketch sources (using symbols) and adding missing devices.
 
 #### ink
@@ -60,6 +60,7 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 <div align="center">
 	<a href="https://twitter.com/ephread" title="Twitter"><img src="https://img.shields.io/badge/-@ephread-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 	<a href="https://linkedin.com/in/ephread/" title="Linkedin"><img src="https://img.shields.io/badge/-ephread-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
+	<a href="https://speakerdeck.com/ephread/" title="Speaker Deck"><img src="https://img.shields.io/badge/-@ephread-009287?style=for-the-badge&logo=Speaker%20Deck&logoColor=white" alt="Linkedin" /></a>
 </div>
 
 <p align="center">
