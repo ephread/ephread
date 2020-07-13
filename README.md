@@ -1,7 +1,7 @@
 ![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
 <h3 align="center">
-	<img src="https://img.shields.io/badge/status-available%20for%20work-brightgreen?style=for-the-badge" alt="Status: Available for Work"/>
+	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-available%20for%20work-brightgreen?style=for-the-badge" alt="Status: Available for Work"/></a>
 </h3>
 
 I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, most of my open source attention is split between [Instructions] and the [ink] community.
