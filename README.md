@@ -24,8 +24,8 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 * **[Pomme Plate]**, a collection of apple-device mockup templates. I've neglected this project in the past few years, but I'm in the process of modernising the Sketch sources (using symbols) and adding missing devices.
 
 #### ink
-* **[inkjs]**, a Javascript port of inkle's [ink] maintained by @y-loshe, to which I'm a regular contributor.
-* **[inkgd]**, similar as above, but in GDScript ([Godot]'s primary programing language). Performances aren't great at the moment, but hopefully they'll improve with Godot's next release. If you're into ink and Godot, you may also want to check @paulloz's great implementation, [godot-ink].
+* **[inkjs]**, a Javascript port of inkle's [ink] maintained by **[@y-loshe]**, to which I'm a regular contributor.
+* **[inkgd]**, similar as above, but in GDScript ([Godot]'s primary programing language). Performances aren't great at the moment, but hopefully they'll improve with Godot's next release. If you're into ink and Godot, you may also want to check **[@paulloz]**'s great implementation, [godot-ink].
 * **[ink-tmLanguage]**, a grammar for ink, that can be used in TextMate, SublimeText, Atom, Visual Studio code or any other editors supporting TextMate grammars.
 * **[inklecate's LSP implementation]**, an implementation of Microsoft's [Language Server Protocol] directly inside inklecate (ink's compiler). It's still very much a work in progress.
 
@@ -39,6 +39,9 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 [Language Server Protocol]: https://microsoft.github.io/language-server-protocol/
 [inklecate's LSP implementation]: https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol
 [Pomme Plate]: https://github.com/ephread/PommePlate
+
+[@y-loshe]: https://github.com/y-lohse
+[@paulloz]: https://github.com/paulloz
 
 ### Current Github crushes
 
