@@ -1,4 +1,4 @@
-# ![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
+![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
 <h3 align="center">
 	<img src="https://img.shields.io/badge/status-available%20for%20work-brightgreen?style=for-the-badge" alt="Status: Available for Work"/>
