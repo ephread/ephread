@@ -10,7 +10,7 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 
 <img src="https://raw.githubusercontent.com/ephread/ephread/main/media/computer.svg" alt="Computer" height="20" /> I work remotely most of the time.
 
-<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/koru.svg" alt="Koru" height ="20" /> I love Aotearoa and I can't wait to visit again.
+<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/koru.svg" alt="Koru" height ="20" /> I love New Zealand and I can't wait to be there again.
 
 
 ### Open Source things you may want to check out
