@@ -1,5 +1,9 @@
 ![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
+<h3 align="center">
+	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-available%20Q4%202021-orange?style=for-the-badge" alt="Status: Available for Work"/></a>
+</h3>
+
 I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, most of my open source attention is split between [Instructions] and the [ink] community.
 
 [Instructions]: https://github.com/ephread/Instructions
@@ -10,7 +14,7 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 
 <img src="https://raw.githubusercontent.com/ephread/ephread/main/media/computer.svg" alt="Computer" height="20" /> I work remotely most of the time.
 
-<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/koru.svg" alt="Koru" height ="20" /> I love New Zealand and I can't wait to be there again.
+<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/koru.svg" alt="Koru" height ="20" /> I spent the best years of my life in New Zealand.
 
 
 ### Open Source things you may want to check out
@@ -38,17 +42,6 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 
 [@y-lohse]: https://github.com/y-lohse
 [@paulloz]: https://github.com/paulloz
-
-### Current Github crushes
-
-|[@Dimillian]|[@nataliapanferova]|[@jordansinger]|[@vmanot]|
-|:----------:|:-----------------:|:-------------:|:-------:|
-|![@dimilian](https://github.com/Dimillian.png?size=170)|![@nataliapanferova](https://github.com/nataliapanferova.png?size=170)|![@jordansinger](https://github.com/jordansinger.png?size=170)|![@vmanot](https://github.com/vmanot.png?size=170)|
-
-[@Dimillian]: https://github.com/Dimillian
-[@nataliapanferova]: https://github.com/nataliapanferova
-[@jordansinger]: https://github.com/jordansinger
-[@vmanot]: https://github.com/vmanot
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/memoji-computer.png" width="100px">
