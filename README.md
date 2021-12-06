@@ -1,7 +1,7 @@
 ![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
 <h3 align="center">
-	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-available%20Q4%202021-orange?style=for-the-badge" alt="Status: Available Q4 2021"/></a>
+	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-not%20available-red?style=for-the-badge" alt="Status: Not Available"/></a>
 </h3>
 
 I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, most of my open source attention is split between [Instructions] and the [ink] community.
@@ -14,7 +14,7 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 
 <img src="https://raw.githubusercontent.com/ephread/ephread/main/media/computer.svg" alt="Computer" height="20" /> I work remotely most of the time.
 
-<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/koru.svg" alt="Koru" height ="20" /> I spent the best years of my life in New Zealand.
+<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/koru.svg" alt="Koru" height ="20" /> I like tinkering with Godot.
 
 
 ### Open Source things you may want to check out
