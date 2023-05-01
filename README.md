@@ -50,7 +50,6 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 	<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/memoji-computer.png" width="100px">
 </div>
 <div align="center">
-	<a href="https://twitter.com/ephread" title="Twitter"><img src="https://img.shields.io/badge/-@ephread-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 	<a href="https://linkedin.com/in/ephread/" title="Linkedin"><img src="https://img.shields.io/badge/-ephread-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
 	<a href="https://speakerdeck.com/ephread/" title="Speaker Deck"><img src="https://img.shields.io/badge/-@ephread-009287?style=for-the-badge&logo=Speaker%20Deck&logoColor=white" alt="Linkedin" /></a>
 </div>
