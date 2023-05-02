@@ -4,33 +4,31 @@
 	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-unavailable-red?style=for-the-badge" alt="Status: Unavailable"/></a>
 </h3>
 
-I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, most of my open source attention is split between [Instructions] and the [ink] community.
-
-[Instructions]: https://github.com/ephread/Instructions
-[ink]: https://github.com/inkle/ink
+I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, Objective-C, Xcode, and related technologies.
 
 ### About me
 <img src="https://raw.githubusercontent.com/ephread/ephread/main/media/swiftui.svg" alt="Koru" height ="20" /> I have fun with SwiftUI.
 
-<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/computer.svg" alt="Computer" height="20" /> I work remotely most of the time.
+<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/computer.svg" alt="Computer" height="20" /> I work remotely.
 
 <img src="https://raw.githubusercontent.com/ephread/ephread/main/media/godot.svg" alt="Godot" height ="20" /> I like tinkering with Godot.
 
 
 ### Open Source things you may want to check out
 
-#### Apple
+#### iOS
 * **[Instructions]**, a pure Swift library to display coach marks. I originally wrote _Instructions_ in Objective-C, as part of another project. In 2015, I extracted the library and rewrote it in Swift.
-##### No longer maintained
-* **[Pomme Plate]**, a collection of apple-device mockup templates. I've neglected this project in the past few years, but I'm in the process of modernising the Sketch sources (using symbols) and adding missing devices.
 
 #### ink
-* **[inkjs]**, a Javascript port of inkle's [ink] maintained by **[@y-lohse]**, to which I'm a regular contributor.
-* **[inkgd]**, similar as above, but in GDScript ([Godot]'s primary programing language). Performances aren't great at the moment, but hopefully they'll improve with Godot's next release. If you're into ink and Godot, you may also want to check **[@paulloz]**'s great implementation, [godot-ink].
+* **[inkjs]**, a Javascript port of inkle's [ink] to which I'm a regular contributor.
+* **[inkgd]**, similar as above, but in GDScript ([Godot]'s primary programing language).
 
 ##### No longer maintained
 * **[ink-tmLanguage]**, a grammar for ink, that can be used in TextMate, Sublime Text, Atom, Visual Studio code or any other editors supporting TextMate grammars.
-* **[inklecate's LSP implementation]**, an implementation of Microsoft's [Language Server Protocol] directly inside inklecate (ink's compiler). It's still very much a work in progress.
+* **[inklecate's LSP implementation]**, an implementation of Microsoft's [Language Server Protocol] directly inside inklecate (ink's compiler).
+* **[Pomme Plate]**, a collection of apple-device mockup templates.
+* **[Sophisticate]**, a handy JavaScript tool that cleans up and adds appropriate metadata to SVGs.
+* **[Autodazzler]**, a script written in ECMAScript 5, designed to automate the rendering pipeline of Daz Studio. 
 
 [Instructions]: https://github.com/ephread/Instructions
 [ink]: https://github.com/inkle/ink
@@ -42,9 +40,8 @@ I'm an independent iOS, watchOS and tvOS developer. When I'm not building apps, 
 [Language Server Protocol]: https://microsoft.github.io/language-server-protocol/
 [inklecate's LSP implementation]: https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol
 [Pomme Plate]: https://github.com/ephread/PommePlate
-
-[@y-lohse]: https://github.com/y-lohse
-[@paulloz]: https://github.com/paulloz
+[Sophisticate]: https://github.com/ephread/Sophisticate
+[Autodazzler]: https://github.com/ephread/Autodazzler
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/memoji-computer.png" width="100px">
