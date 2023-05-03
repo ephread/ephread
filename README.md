@@ -1,10 +1,17 @@
 ![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
 <h3 align="center">
-	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-unavailable-red?style=for-the-badge" alt="Status: Unavailable"/></a>
+	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-open%20to%20work-green?style=for-the-badge" alt="Status: Open to Work"/></a>
 </h3>
 
 I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, Objective-C, Xcode, and related technologies.
+
+| 🚨 RECRUITERS & INTERVIEWERS 🚨 |
+|:---|
+| I just open-sourced a small watchOS application named [The Bell] ([App Store]), feel free to have a glance! It's an app that I initially created back in 2020 as a way to further explore watchOS development. |
+
+[The Bell]: https://github.com/ephread/TheBell
+[App Store]: https://apps.apple.com/us/app/apple-store/id1522205874
 
 ### About me
 <img src="https://raw.githubusercontent.com/ephread/ephread/main/media/swiftui.svg" alt="Koru" height ="20" /> I have fun with SwiftUI.
@@ -18,6 +25,7 @@ I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, O
 
 #### iOS
 * **[Instructions]**, a pure Swift library to display coach marks. I originally wrote _Instructions_ in Objective-C, as part of another project. In 2015, I extracted the library and rewrote it in Swift.
+* **[The Bell]**, a watchOS app designed for high-intensity interval workouts, first developed in 2020 and rebuilt in 2023 from the bottom up using SwiftUI.
 
 #### ink
 * **[inkjs]**, a Javascript port of inkle's [ink] to which I'm a regular contributor.
@@ -31,6 +39,7 @@ I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, O
 * **[Autodazzler]**, a script written in ECMAScript 5, designed to automate the rendering pipeline of Daz Studio. 
 
 [Instructions]: https://github.com/ephread/Instructions
+[The Bell]: https://github.com/ephread/TheBell
 [ink]: https://github.com/inkle/ink
 [inkjs]: https://github.com/y-lohse/inkjs
 [inkgd]: https://github.com/ephread/inkgd
