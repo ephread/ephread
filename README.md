@@ -6,7 +6,7 @@
 
 I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, Objective-C, Xcode, and related technologies.
 
-| 🚨 RECRUITERS & INTERVIEWERS 🚨 |
+| ⭐️ RECRUITERS & INTERVIEWERS ⭐️ |
 |:---|
 | I just open-sourced a small watchOS application named [The Bell] ([App Store]), feel free to have a glance! It's an app that I initially created back in 2020 as a way to further explore watchOS development. |
 
