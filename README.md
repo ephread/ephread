@@ -13,14 +13,6 @@ I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, O
 [The Bell]: https://github.com/ephread/TheBell
 [App Store]: https://apps.apple.com/us/app/apple-store/id1522205874
 
-### About me
-<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/swiftui.svg" alt="Koru" height ="20" /> I have fun with SwiftUI.
-
-<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/computer.svg" alt="Computer" height="20" /> I work remotely.
-
-<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/godot.svg" alt="Godot" height ="20" /> I like tinkering with Godot.
-
-
 ### Open Source things you may want to check out
 
 #### iOS
