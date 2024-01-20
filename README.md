@@ -1,14 +1,10 @@
 ![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
 <h3 align="center">
-	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-available-green?style=for-the-badge" alt="Status: Available"/></a>
+	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-unavailable-red?style=for-the-badge" alt="Status: Unavailable"/></a>
 </h3>
 
 I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, Objective-C, Xcode, and related technologies.
-
-| ⭐️ RECRUITERS & INTERVIEWERS ⭐️ |
-|:---|
-| I just open-sourced a small watchOS application named [The Bell] ([App Store]), feel free to have a glance! It's an app that I initially created back in 2020 as a way to further explore watchOS development. |
 
 [The Bell]: https://github.com/ephread/TheBell
 [App Store]: https://apps.apple.com/us/app/apple-store/id1522205874
