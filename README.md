@@ -1,38 +1,38 @@
-![Hey, I'm Fred — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
+<a href="https://ephread.com">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="media/header-unavailable-dark.svg">
+		<img src="media/header-unavailable-light.svg" alt="Hey, I'm Fred. Independent iOS & watchOS developer. I grow apples in my backyard. Unavailable for new projects.">
+	</picture>
+</a>
 
-<h3 align="center">
-	<a href="mailto:fred@ephread.com" title="Get in touch!"><img src="https://img.shields.io/badge/status-unavailable-red?style=for-the-badge" alt="Status: Unavailable"/></a>
-</h3>
+I'm an independent iOS & watchOS developer in Montréal. I help companies build amazing apps, from designing the user interface to publishing them on the App Store. I've been doing it for more than a decade, in Swift and Objective-C.
 
-I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, Objective-C, Xcode, and related technologies.
+Curious about what I've built? **[Have a look at my work →][ephread.com]**
 
-[The Bell]: https://github.com/ephread/TheBell
-[App Store]: https://apps.apple.com/us/app/apple-store/id1522205874
+### Open source things you may want to check out
 
-### Open Source things you may want to check out
-
-#### iOS
+#### iOS & watchOS
 * **[Instructions]**, a pure Swift library to display coach marks. I originally wrote _Instructions_ in Objective-C, as part of another project. In 2015, I extracted the library and rewrote it in Swift.
 * **[The Bell]**, a watchOS app designed for high-intensity interval workouts, first developed in 2020 and rebuilt in 2023 from the bottom up using SwiftUI.
 
 #### ink
-* **[inkjs]**, a Javascript port of inkle's [ink] to which I'm a regular contributor.
-* **[inkgd]**, similar as above, but in GDScript ([Godot]'s primary programing language).
+* **[inkjs]**, a JavaScript port of inkle's [ink] to which I'm a regular contributor.
+* **[inkgd]**, the same idea, but in GDScript ([Godot]'s primary programming language).
 
 ##### No longer maintained
-* **[ink-tmLanguage]**, a grammar for ink, that can be used in TextMate, Sublime Text, Atom, Visual Studio code or any other editors supporting TextMate grammars.
+* **[ink-tmLanguage]**, a grammar for ink that can be used in TextMate, Sublime Text, Visual Studio Code or any other editor supporting TextMate grammars.
 * **[inklecate's LSP implementation]**, an implementation of Microsoft's [Language Server Protocol] directly inside inklecate (ink's compiler).
-* **[Pomme Plate]**, a collection of apple-device mockup templates.
+* **[Pomme Plate]**, a collection of Apple device mockup templates.
 * **[Sophisticate]**, a handy JavaScript tool that cleans up and adds appropriate metadata to SVGs.
-* **[Autodazzler]**, a script written in ECMAScript 5, designed to automate the rendering pipeline of Daz Studio. 
+* **[Autodazzler]**, a script written in ECMAScript 5, designed to automate the rendering pipeline of Daz Studio.
 
+[ephread.com]: https://ephread.com
 [Instructions]: https://github.com/ephread/Instructions
 [The Bell]: https://github.com/ephread/TheBell
 [ink]: https://github.com/inkle/ink
 [inkjs]: https://github.com/y-lohse/inkjs
 [inkgd]: https://github.com/ephread/inkgd
 [Godot]: https://github.com/godotengine/godot
-[godot-ink]: https://github.com/paulloz/godot-ink
 [ink-tmLanguage]: https://github.com/inkle/ink-tmlanguage
 [Language Server Protocol]: https://microsoft.github.io/language-server-protocol/
 [inklecate's LSP implementation]: https://github.com/ephread/ink/tree/language-server/inklecate/LanguageServerProtocol
@@ -41,13 +41,5 @@ I'm a seasoned iOS and watchOS developer with a decade of experience in Swift, O
 [Autodazzler]: https://github.com/ephread/Autodazzler
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/memoji-computer.png" width="100px">
+	<img src="https://raw.githubusercontent.com/ephread/ephread/main/media/memoji-computer.png" width="100px" alt="">
 </div>
-<div align="center">
-	<a href="https://linkedin.com/in/ephread/" title="Linkedin"><img src="https://img.shields.io/badge/-ephread-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
-	<a href="https://speakerdeck.com/ephread/" title="Speaker Deck"><img src="https://img.shields.io/badge/-@ephread-009287?style=for-the-badge&logo=Speaker%20Deck&logoColor=white" alt="Linkedin" /></a>
-</div>
-
-<!--<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ephread&show_icons=true&title_color=009A9C&icon_color=C4C5C7&count_private=true&hide_title=true" alt="Github Stats"/>
-</p>-->
