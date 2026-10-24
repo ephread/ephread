@@ -19,6 +19,8 @@ FONTS = Path(sys.argv[1])  # node_modules/@fontsource-variable
 OUT = Path(sys.argv[2])
 
 W, H = 1000, 360
+# Transparent space under the card, so the README's text doesn't sit right against it.
+MARGIN = 32
 
 THEMES = {
     "light": dict(bg="#f9f5f1", surface="#fff", line="#e6e0d8", fg="#2e3036", muted="#555861"),
@@ -95,7 +97,7 @@ def svg(theme, status):
 
     title = f"Hey, I’m Fred. Independent iOS &amp; watchOS developer. I grow apples in my backyard. {label}."
     return (
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img">'
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H + MARGIN}" viewBox="0 0 {W} {H + MARGIN}" role="img">'
         f"<title>{title}</title>"
         f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="32" fill="{c["bg"]}" stroke="{c["line"]}"/>'
         + "".join(parts) + "</svg>\n"
